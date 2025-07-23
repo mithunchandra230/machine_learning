@@ -1,36 +1,46 @@
 # Machine Learning Projects
 
-This repository contains a collection of my machine learning projects developed to demonstrate my practical understanding of real-world data problems, model building, and end-to-end ML pipelines. Each project is designed to solve a specific problem using supervised learning techniques.
+
+This repository contains several machine learning projects I created to showcase my real-world situations and application of machine learning. Each project fixes a specific problem, using supervised learning to create a model and working with an end-to-end ML pipeline.
+
 
 ## About Me
 
-I am a machine learning enthusiast with hands-on experience in data preprocessing, exploratory data analysis, feature engineering, model training, hyperparameter tuning, and evaluation. My learning journey has been driven by building projects that reflect industry-relevant problems and deploying solutions using Python and popular ML libraries like scikit-learn, pandas, NumPy, and Matplotlib.
+I am now a machine learning enthusiast with the hands-on experience and knowledge of data pre-processing, exploratory data analysis, feature engineering, model training, hyperparameter tuning, and evaluation. All have been achieved and generated through my experience of building projects which closely matched any of the ML problems as seen in industry, ultimately resulting in codes and solutions generated using Python and some of the most popular ML libraries, such as, scikit-learn, pandas, NumPy and Matplotlib.
 
-I am currently seeking a full-time opportunity where I can contribute meaningfully using my skills and continue to grow as a data-driven problem solver. I believe in learning by doing, and this repository showcases the effort I have put into developing and refining my practical skills.
+I am looking for a full-time opportunity that allows me to contribute in a meaningful way using my skills and, at the same time, to further develop my data-driven problem-solving skills. I am a believer of learning-by-doing; this repository captures the amount of focused effort I put into developing and enhancing my practical skills.
+
 
 ## Projects Included
 
-1. **Vehicle Price Prediction**  
-2. **Heart Disease Prediction**  
-3. **Fraud Detection**
 
-Each project has its own folder with a dedicated `README.md` file that explains the problem statement, dataset used, methodology, results, and insights. You can refer to those individual files for detailed information.
+1. Vehicles Price Prediction
 
-## Skills Demonstrated
+2. Heart Disease Prediction
+  
+3. Fraud Detection
+
+
+Each project has its own folder and has a respective `README.md` file that includes the problem statement, dataset used, methodology employed, evaluation, and conclusion. I won't include that detail here, but please feel free to explore the individual readmes.
+
+## Skills Acquired
+
 
 - Data Cleaning and Preprocessing  
 - Feature Engineering  
 - Exploratory Data Analysis (EDA)  
-- Model Selection and Evaluation  
+- Model Selection and Evaluating Models  
 - Logistic Regression, Decision Trees, Random Forests, and other ML algorithms  
-- Train/Test Splitting and Cross Validation  
-- Confusion Matrix, ROC-AUC, Precision/Recall  
+- Train/Test Split and Cross Validation  
+- Confusion Matrix, ROC AUC, Precision/Recall  
 - Python Libraries: pandas, NumPy, scikit-learn, matplotlib, seaborn
+
 
 ## Contact
 
-I am actively looking for opportunities to apply my skills in a professional environment. If you're hiring or know of any relevant roles, feel free to reach out:
 
-- **Email:** [your-email@example.com]  
-- **LinkedIn:** [Your LinkedIn Profile URL]  
-- **Portfolio (if any):** [Your Portfolio URL]
+I am searching for opportunities to apply my skills to a professional opportunity. If you are hiring, or know if anywhere where I might apply, please reach out:
+
+
+- **Email:** mithunchandra2309@gmail.com 
+- **LinkedIn/Bio:**   
