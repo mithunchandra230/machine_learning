@@ -20,4 +20,4 @@ We have one dataset of used cars and we want to use supervised regression algori
 
 The project compares which model is doing better for price predictions in a setting to highlight learned conclusions on vehicle price prediction. The code is reframed responsively to suggest it may include extending into a deployed application or bundling into larger, larger project.
 
-Explore the notebook for full code, charts, and model outputs.
+[Explore the notebook for full code, charts, and model outputs](1_vehicle_price_prediction.ipynb)
