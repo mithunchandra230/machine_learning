@@ -23,3 +23,5 @@ This project aims to predict the price of used vehicles using a machine learning
 
 ## Result
 Achieved a reliable prediction pipeline that can estimate the resale value of any given car with reasonable accuracy.
+
+[Explore the notebook for full code, charts, and model outputs](1_vehicle_price_prediction.ipynb)
