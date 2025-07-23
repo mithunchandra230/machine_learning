@@ -23,3 +23,5 @@ This classification project predicts the likelihood of heart disease based on pa
 
 ## Result
 The model successfully identifies high-risk individuals, providing a decision support tool for early diagnosis of heart disease.
+
+[Explore the notebook for full code, charts, and model outputs](2_heart_disease_prediction.ipynb)
