@@ -22,3 +22,5 @@ This project detects fraudulent transactions using classification algorithms. It
 
 ## Result
 A model capable of identifying fraudulent transactions with high precision, helping to reduce financial risk and fraud losses.
+
+[Explore the notebook for full code, charts, and model outputs](3_fraud_transaction.ipynb)
